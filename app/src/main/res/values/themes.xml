@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fragmentos_1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Puedes personalizar colores aquí, si lo necesitas -->
+    </style>
+
+
+    <style name="Theme.Fragmentos_1" parent="Base.Theme.Fragmentos_1" />
+</resources>
